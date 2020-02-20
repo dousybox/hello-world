@@ -1,3 +1,3 @@
 # hello-world
 
-test new gpg sign
+test new email info in gpg sign
